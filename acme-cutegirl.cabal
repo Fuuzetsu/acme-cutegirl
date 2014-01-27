@@ -1,5 +1,5 @@
 name:                acme-cutegirl
-version:             0.1.0.0
+version:             0.2.0.0
 synopsis:            Maybe gives you a cute girl
 description:         A package which exists solely to try and give
                      the user a cute girl. Executable and library are both

@@ -32,6 +32,6 @@ jpnPrintCuteGirl :: IO ()
 jpnPrintCuteGirl = case cuteGirl of
   Just Sayaka -> putStrLn $ concat [ "かわいい女の子かと思った？\n"
                                    , "残念！\n"
-                                   , "残念さやかちゃんでした！"
+                                   , "さやかちゃんでした！"
                                    ]
   _ -> return ()
