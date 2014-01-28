@@ -9,8 +9,6 @@
 -- Module that maybe gives you a cute girl.
 module Acme.CuteGirl where
 
-import System.Environment (getArgs)
-
 -- | Cute girls capable of doing cute stuff
 data CuteGirl = Sayaka | Kyōko | Homura deriving Show
 
